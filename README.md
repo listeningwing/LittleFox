@@ -1,4 +1,5 @@
-LittleFox
+#LittleFox
+
 Making karaoke videos in a comfortable way.
 
 Fast synthesis subtitle with audio or video without traditional boring works. Making "karaoke style" videos with dynamic text on single character level, very suitable for music videos making, two lines of text simultaneously display is designedly ready for language learning videos making. LittleFox helps people share music videos on social websites in a very efficient way. With the help of the app, you can burn your favourite mp3 to video with lyrics sheet in several minutes, make slideshows by merging pictures with speech audio, synchronise lyrics with an existing video, and easily share the final video with a more smaller file size.
